@@ -19,8 +19,7 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 |----------------------------------------|--------------------------------------------|
 | Databse Design and Developement                     | [Databse Design and Developement ](https://github.com/dp600/Data-Analytics-Portfolio/blob/ad738d7555456a5b13ebc0661b3349f11e72d8a1/Database%20project.md)         |
 | Clustering Techniques (K-Means, DBSCAN)| [Amazon Clustering](./Data-Mining-CA)       |
-| Machine Learning & Feature Engineering | [Loan Default Prediction](./Loan-Default)   |
-| Data Visualization & Price Analysis    | [London House Price](./London-House-Price)  |
+| Data Visualization and Analyze in Power Bi And Excel      | [Visualization](https://github.com/dp600/Project-on-power-bi-andExcel/blob/f2c0ad0ebb0a40a577c8556d2c0c177db3b4dafe/README.md)  |
 
 ---
 
