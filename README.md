@@ -17,10 +17,9 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 
 | Skill                                   | Associated Project                         |
 |----------------------------------------|--------------------------------------------|
-| Databse Design and Developement                     | [Databse Design and Developement ](https://github.com/dp600/Data-Analytics-Portfolio/blob/ad738d7555456a5b13ebc0661b3349f11e72d8a1/Database%20project.md)         |
+| Database Design and Developement                     | [Databse Design and Developement ](https://github.com/dp600/Data-Analytics-Portfolio/blob/ad738d7555456a5b13ebc0661b3349f11e72d8a1/Database%20project.md)         |
 | Clustering Techniques (K-Means, DBSCAN)| [Amazon Clustering](./Data-Mining-CA)       |
-| Implement a Performance Dashboard for a Sales report
-      | [ Visualization and Analysis Sales data Through Power Bi And ExceL](https://github.com/dp600/Project-on-power-bi-andExcel/blob/f2c0ad0ebb0a40a577c8556d2c0c177db3b4dafe/README.md)  |
+| Implement a Performance Dashboard for a Sales report| [ Visualization and Analysis Sales data Through Power Bi And ExceL](https://github.com/dp600/Project-on-power-bi-andExcel/blob/f2c0ad0ebb0a40a577c8556d2c0c177db3b4dafe/README.md)  |
 
 ---
 
