@@ -17,7 +17,7 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 
 | Skill                                   | Associated Project                         |
 |----------------------------------------|--------------------------------------------|
-| Database Design and Developement                     | [Databse Design and Developement ](https://github.com/dp600/Data-Analytics-Portfolio/blob/ad738d7555456a5b13ebc0661b3349f11e72d8a1/Database%20project.md)         |
+| Database Design and Developement                     | [Databse Design and Developement ](https://github.com/dp600/Database-Design-and-Development/blob/928275079e9e53e94c3d466bdfc4a850ea07247d/README.md)         |
 | Clustering Techniques And NLTK| [ Amazon product Review using Clustering Technique(unsupervised learning) and Preprocessed by NLTK] https://dp600.github.io/ML/ |
 | Visualization and Analysis Sales data Through Power Bi And ExceL | [Implement a Performance Dashboard for a Sales report] https://dp600.github.io/Project-on-power-bi-andExcel/ |
 
