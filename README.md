@@ -20,6 +20,7 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 | Database Design and Developement                     | [Car Dealership Database — Design & Development ](https://dp600.github.io/Database-Design-and-Development/)         |
 | Clustering Techniques And NLTK| [ Amazon product Review using Clustering Technique(unsupervised learning) and Preprocessed by NLTK] https://dp600.github.io/ML/ |
 | Visualization and Analysis Sales data Through Power Bi And ExceL | [Implement a Performance Dashboard for a Sales report] https://dp600.github.io/Project-on-power-bi-andExcel/ |
+| Forecast Next day Closing Stock Price of Apple Company through Hybrid model | [Xgboost-Lstm hybrid approach for stock price prediction ]( https://dp600.github.io/Hybrid-Machine-learning-for-forecasting-Stock-data/)         |
 
 ---
 ## 🔧 Tools
