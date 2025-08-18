@@ -16,7 +16,7 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 
 | Skill                                   | Associated Project                         |
 |----------------------------------------|--------------------------------------------|
-| Database Design and Developement                     | [Car Dealership Database — Design & Development ](https://dp600.github.io/Database-Design-and-Development/)         |
+| Database Design and Development                     | [Car Dealership Database — Design & Development ](https://dp600.github.io/Database-Design-and-Development/)         |
 | Clustering Techniques And NLTK| [ Amazon product Review using Clustering Technique(unsupervised learning) and Preprocessed by NLTK](https://dp600.github.io/ML/) |
 | Visualization and Analysis Sales data Through Power Bi And ExceL | [Implement a Performance Dashboard for a Sales report](https://dp600.github.io/Project-on-power-bi-andExcel/) |
 | Forecast Next day Closing Stock Price of Apple Company through Hybrid model | [Xgboost-Lstm ML hybrid approach for stock price prediction ]( https://dp600.github.io/Hybrid-Machine-learning-for-forecasting-Stock-data/)         |
@@ -37,7 +37,7 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 
 ## 📁 Projects
 
-- **[Databse Design and Developement]((https://github.com/dp600/Data-Analytics-Portfolio/blob/ad738d7555456a5b13ebc0661b3349f11e72d8a1/Database%20project.md) )** – Built schema and wrote SQL queries
+- **[Database Design and Development]((https://github.com/dp600/Data-Analytics-Portfolio/blob/ad738d7555456a5b13ebc0661b3349f11e72d8a1/Database%20project.md) )** – Built schema and wrote SQL queries
 - **[Amazon product Review using Clustering Technique(unsupervised learning) and Preprocessed by NLTK]((https://github.com/dp600/ML/blob/40065820c9b63d317295ae2e7fcbeea6a1507c87/README.md))** – Applied clustering techniques for product review
 - **[Implement a Performance Dashboard for a Sales report]((https://github.com/dp600/Project-on-power-bi-andExcel/blob/f2c0ad0ebb0a40a577c8556d2c0c177db3b4dafe/README.md))** – Exploratory Data Analysis for Sales report 
 - **[Xgboost-Lstm ML hybrid approach for stock price prediction ]((https://dp600.github.io/Hybrid-Machine-learning-for-forecasting-Stock-data/))** – Stock market forecasting
