@@ -35,7 +35,7 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 
 ---
 ## 📜 Certifications
-- **Microsoft PL-300: Power BI Data Analyst**
+- **Microsoft PL-300: Power BI Data Analyst Associate**
   - [View Certificate (PDF)](Microsoft%20Power%20BI%20Data%20Analyst%20Associate%20Credential.pdf)
 
 ## 📁 Projects
