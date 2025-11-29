@@ -34,6 +34,10 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 `Power BI` `Tableau (basic)` `Excels`
 
 ---
+## 📜 Certifications
+- **Microsoft PL-300: Power BI Data Analyst**
+  - [View Certificate (PDF)](Microsoft Power BI Data Analyst Associate Credential.pdf)
+
 
 ## 📁 Projects
 
