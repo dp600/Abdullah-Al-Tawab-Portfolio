@@ -38,10 +38,11 @@ My goal is to work as a  Analyst  where I can apply statistical methods, machine
 - **Microsoft PL-300: Power BI Data Analyst Associate**
   - [View Certificate (PDF)](Microsoft%20Power%20BI%20Data%20Analyst%20Associate%20Credential.pdf)
  
- ---
 ## 📜 Certifications
+
 - **Microsoft DP-600: Fabric Analytics Engineer Associate**
-  - [View Certificate (PDF)] https://raw.githubusercontent.com/dp600/Abdullah-Al-Tawab-Portfolio/main/Microsoft%20Certified%20%20Fabric%20Analytics%20Engineer%20Associate.pdf
+  - [View Certificate (PDF)](https://raw.githubusercontent.com/dp600/Abdullah-Al-Tawab-Portfolio/main/Microsoft%20Certified%20%20Fabric%20Analytics%20Engineer%20Associate.pdf)
+
 
 
 ## 📁 Projects
